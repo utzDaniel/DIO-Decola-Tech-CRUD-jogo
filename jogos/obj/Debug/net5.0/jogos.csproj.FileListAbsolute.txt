@@ -1,0 +1,16 @@
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.exe
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.deps.json
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.runtimeconfig.json
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.runtimeconfig.dev.json
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.dll
+C:\Users\Daniel\jogos\bin\Debug\net5.0\ref\jogos.dll
+C:\Users\Daniel\jogos\bin\Debug\net5.0\jogos.pdb
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.csproj.AssemblyReference.cache
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.AssemblyInfoInputs.cache
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.AssemblyInfo.cs
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.dll
+C:\Users\Daniel\jogos\obj\Debug\net5.0\ref\jogos.dll
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.pdb
+C:\Users\Daniel\jogos\obj\Debug\net5.0\jogos.genruntimeconfig.cache
